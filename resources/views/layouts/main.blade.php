@@ -22,6 +22,9 @@
 				    <li class="nav-item">
 				    	<a class="nav-link" href="/invoices">Invoices</a>
 				    </li>
+				    <li class="nav-item">
+				    	<a class="nav-link" href="/albums">Albums</a>
+				    </li>
 				</ul>
 				</div>
 				<div class = "col-9">
